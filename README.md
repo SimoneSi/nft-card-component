@@ -4,9 +4,9 @@ Esta é uma soulução do [NFT preview card component challenge on Frontend Ment
 
 ## Índice
 
--[Overview](#overview)
-  -[O desafio](#o-desafio)
-  -
+- [Overview](#overview)
+  - [O desafio](#o-desafio)
+  
 ## Overview
 
 ### O desafio
